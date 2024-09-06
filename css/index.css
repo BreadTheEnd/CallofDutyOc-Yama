@@ -261,6 +261,7 @@ ol{
 }
 .desc_gallery{
     font-size: 2vh;
+    text-align: center;
 }
 .gallery_item{
     list-style-type: none;
